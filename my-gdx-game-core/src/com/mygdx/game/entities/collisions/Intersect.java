@@ -2,7 +2,6 @@ package com.mygdx.game.entities.collisions;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.math.Circle;
-import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.math.Rectangle;
 
 public abstract class Intersect {

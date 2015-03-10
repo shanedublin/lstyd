@@ -2,8 +2,6 @@ package com.mygdx.game.entities;
 
 import java.util.Iterator;
 
-import com.badlogic.gdx.Game;
-import com.badlogic.gdx.math.Path;
 import com.badlogic.gdx.math.Vector2;
 import com.badlogic.gdx.utils.Array;
 import com.mygdx.game.GameScreen;

@@ -1,11 +1,8 @@
 package com.mygdx.game.entities.collisions;
 
 import java.util.Iterator;
-import java.util.stream.Stream;
 
-import com.badlogic.gdx.scenes.scene2d.ui.List;
 import com.badlogic.gdx.utils.Array;
-import com.mygdx.game.GameScreen;
 import com.mygdx.game.entities.Enemy;
 import com.mygdx.game.entities.MapTile;
 import com.mygdx.game.entities.Projectile;

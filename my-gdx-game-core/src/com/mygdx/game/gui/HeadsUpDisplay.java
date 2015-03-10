@@ -1,6 +1,5 @@
 package com.mygdx.game.gui;
 
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.math.Rectangle;
 import com.mygdx.game.MyGdxGame;
 import com.mygdx.game.entities.items.ItemSlot;
