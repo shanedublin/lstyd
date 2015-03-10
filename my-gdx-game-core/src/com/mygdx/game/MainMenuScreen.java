@@ -37,7 +37,7 @@ public class MainMenuScreen implements Screen {
 	//TextButtonStyle tbStyle;
 	
 	public  MainMenuScreen() {
-		// TODO Auto-generated constructor stub
+		
 		//this.game = game;
 		stage = new Stage(new ScreenViewport());
 		

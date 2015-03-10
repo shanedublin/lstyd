@@ -14,7 +14,7 @@ public class Options extends Table {
 	private final Button back;
 	
 	public Options() {
-		// TODO Auto-generated constructor stub
+		
 		super();
 //		table = new Table();
 		//table.setFillParent(true);

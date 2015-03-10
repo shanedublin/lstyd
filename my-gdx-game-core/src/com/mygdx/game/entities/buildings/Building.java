@@ -40,13 +40,13 @@ public abstract class Building extends Entity implements Hittable
 
 	@Override
 	public void damage(int damage) {
-		// TODO Auto-generated method stub
+		
 		System.out.println(this.getClass().getSimpleName() + " Object was hit");
 	}
 
 	@Override
 	public boolean hit(Circle circle) {
-		// TODO Auto-generated method stub
+		
 		return Intersect.CircleRectangleIntersection(circle, getBounds());
 	}
 
